@@ -30,14 +30,14 @@
 ```bash
 pip install -r requirements.txt
 python app.py
-# Open http://localhost:5000
+# Open http://localhost:8080
 ```
 
 ### Option 2: Docker (recommended)
 
 ```bash
 docker-compose up --build
-# Open http://localhost:5000
+# Open http://localhost:8080
 ```
 
 ## How It Works
